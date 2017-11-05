@@ -3,7 +3,7 @@
     "name": "My Site",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 40,
+    "uniqCompNum": 43,
     "versionPublish": "4.3.4",
     "theme": {
       "name": "mobirise4",
@@ -146,6 +146,7 @@
           "_name": "gallery3",
           "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#000000\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"4\"></div>\n    </div>\n\n</section>",
           "_cid": "qzyyqMeddB",
+          "_anchor": "gallery3-12",
           "_protectedParams": [
             "text_all",
             "gallery__filtersTextStyle",
@@ -164,20 +165,20 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dscn4289.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dscn4289-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/platenhoes-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/platenhoes-1-800x600.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dscn4292.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dscn4292-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/platenhoes-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/platenhoes-2-800x600.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -188,16 +189,15 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dscn4293-bewerkt.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dscn4293-bewerkt-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/platenhoes-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/platenhoes-3-800x599.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
-          },
-          "_anchor": "gallery3-12"
+          }
         },
         {
           "_styles": {
@@ -267,6 +267,7 @@
           "_name": "gallery3",
           "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#000000\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"3\"></div>\n    </div>\n\n</section>",
           "_cid": "qzyAArPxoa",
+          "_anchor": "gallery3-13",
           "_protectedParams": [
             "text_all",
             "gallery__filtersTextStyle",
@@ -285,8 +286,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dscn4299.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dscn4299-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boekje-parijs-4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boekje-parijs-4-800x600.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -297,8 +298,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dscn4300.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dscn4300-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boekje-parijs-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boekje-parijs-3-800x600.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -309,8 +310,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dscn4301.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dscn4301-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boekje-parijs-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boekje-parijs-2-800x600.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -321,16 +322,75 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dscn4302.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dscn4302-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boekje-parijs-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boekje-parijs-1-800x600.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": true
               }
             ]
+          }
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#767676"
+            },
+            "H2": {
+              "color": "#ffffff"
+            }
           },
-          "_anchor": "gallery3-13"
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">POSTER</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with sharp design and refine coded functions.\n                </h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qA66WFr2Zl",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content4-16"
+        },
+        {
+          "_styles": {
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "background": "@bgColor",
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(0deg, @color2, @bgColor)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image3",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"1\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"1\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"36\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#000000\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/triootjes.jpg\" width=\"1400\" alt=\"Mobirise\" title>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Create awesome websites!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
+          "_cid": "qA66IV83RN",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "image3-15"
         },
         {
           "_styles": {
