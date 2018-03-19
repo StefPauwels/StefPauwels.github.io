@@ -1325,7 +1325,7 @@ body {
 }
 .cid-qMKCk1foTo .mbr-text {
   color: #efefef;
-  text-align: left;
+  text-align: right;
 }
 .cid-qMgBSu2pU7 {
   padding-top: 45px;
@@ -1674,7 +1674,7 @@ body {
 }
 .cid-qMKEuidAWq .mbr-text {
   color: #efefef;
-  text-align: left;
+  text-align: right;
 }
 .cid-qMgm6SVeIC {
   padding-top: 45px;
@@ -2261,7 +2261,7 @@ body {
 }
 .cid-qzrhGacxRW H2 {
   color: #fff000;
-  text-align: left;
+  text-align: right;
 }
 .cid-qMKEl74Iw5 {
   padding-top: 0px;
@@ -2274,7 +2274,7 @@ body {
 }
 .cid-qMKEl74Iw5 .mbr-text {
   color: #efefef;
-  text-align: left;
+  text-align: right;
 }
 .cid-qMKJArke7y {
   padding-top: 15px;
@@ -2553,7 +2553,7 @@ body {
 }
 .cid-qA66WFr2Zl {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
   background-color: #000000;
 }
 .cid-qA66WFr2Zl .mbr-section-subtitle {
@@ -2561,10 +2561,10 @@ body {
 }
 .cid-qA66WFr2Zl H2 {
   color: #fff000;
-  text-align: right;
+  text-align: left;
 }
 .cid-qA66IV83RN {
-  padding-top: 15px;
+  padding-top: 0px;
   padding-bottom: 15px;
   background: #000000;
 }
@@ -2594,7 +2594,7 @@ body {
 }
 .cid-qAdxAlkM3o H2 {
   color: #fff000;
-  text-align: left;
+  text-align: right;
 }
 .cid-qAdqvTeg27 {
   padding-top: 0px;
@@ -2648,7 +2648,7 @@ body {
   color: #fff000;
 }
 .cid-qBl3NdYVs5 H2 {
-  text-align: right;
+  text-align: left;
 }
 .cid-qBl4dOlU2H {
   padding-top: 0px;
@@ -2700,6 +2700,9 @@ body {
 }
 .cid-qBrryMXy2h SPAN {
   color: #fff000;
+}
+.cid-qBrryMXy2h H2 {
+  text-align: right;
 }
 .cid-qBrrKBh8BM {
   padding-top: 15px;
