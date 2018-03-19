@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Stef Pauwels",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 73,
     "versionPublish": "4.6.5",
@@ -2069,7 +2069,7 @@
               "color": "#767676"
             },
             "H2": {
-              "color": "#ffffff"
+              "color": "#fff000"
             }
           },
           "_name": "content4",
@@ -2094,7 +2094,7 @@
               "text-align": "center"
             },
             ".mbr-text B": {
-              "color": "#ffffff"
+              "color": "#fff000"
             }
           },
           "_name": "content1",
